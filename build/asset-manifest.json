@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8119f5f.css",
+    "main.js": "/static/js/main.d7b5d0c7.js",
+    "static/js/415.fc063c41.chunk.js": "/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/static/js/787.f6e65957.chunk.js",
+    "static/media/widar_proj.png": "/static/media/widar_proj.b0ad9f88dfb2cffdd160.png",
+    "static/media/avatar.png": "/static/media/avatar.0d7eca849cad1901da71.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/sisr360.jpeg": "/static/media/sisr360.48ca793b5530c77a2508.jpeg",
+    "static/media/babylon_icon.svg": "/static/media/babylon_icon.6c5ea4b79ebe87ca42824e0cef5fa1a9.svg",
+    "index.html": "/index.html",
+    "static/media/pre.svg": "/static/media/pre.e64184125470ad2326b5.svg",
+    "main.d8119f5f.css.map": "/static/css/main.d8119f5f.css.map",
+    "main.d7b5d0c7.js.map": "/static/js/main.d7b5d0c7.js.map",
+    "415.fc063c41.chunk.js.map": "/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8119f5f.css",
+    "static/js/main.d7b5d0c7.js"
+  ]
+}
